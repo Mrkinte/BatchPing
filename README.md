@@ -4,9 +4,7 @@
 - 支持测试数据导出Excel表格。
 
 ## 📥下载链接
-- 国内访问 [阿里云盘](https://www.alipan.com/s/b7YVCuqoiwa)
-
-- 国外访问 [Google Drive](https://drive.google.com/drive/folders/1qR9B7D3aH5CFyLSHfhxJoJ7K_L0yR1dv?usp=sharing)
+- [阿里云盘](https://www.alipan.com/s/b7YVCuqoiwa)
 
 ## 🛠️软件界面
 ![主界面](https://github.com/Mrkinte/BatchPing/blob/main/Sample.png)
