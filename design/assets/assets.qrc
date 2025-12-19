@@ -1,0 +1,8 @@
+<RCC>
+  <qresource>
+    <file>icons/favicon.png</file>
+    <file>icons/back_icon.svg</file>
+    <file>icons/export_icon.svg</file>
+    <file>icons/settings_icon.svg</file>
+  </qresource>
+</RCC>
